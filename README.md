@@ -6,7 +6,7 @@ This simulation was developed using WebGL API JavaScript API and Physics plugin 
 Features:  
 3D rendering of a scene  
 3 light sources and 1 camera  
-User interaction through the mouse or keyboard  
+User interaction through keyboard  
 Animation  
 A texture map  
 Collision between objects  
