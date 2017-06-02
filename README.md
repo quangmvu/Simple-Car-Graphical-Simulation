@@ -1,7 +1,7 @@
 # Simple-Car-Graphical-Simulation
 An interactive graphical simulation with a simple model of a car.
 
-This simulation was developed using WebGL API JavaScript API and Physics plugin for three.js. 
+This simulation was developed using WebGL API JavaScript API and Physijs plugin for three.js. 
 
 Features:  
 3D rendering of a scene  
